@@ -1,0 +1,6 @@
+This c program allows you to add records of students. There
+are more features like displaying the records of students as 
+well as giving access to delete the record as desired. plus 
+you can search the particular students.
+
+ -thank you! 
